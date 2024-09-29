@@ -1,6 +1,6 @@
 # Global-Electric-Vehicles-Sales-Analysis-2010-2024
 
-**Overview**
+**Overview:**
 
 This project investigates the latest trends in global electric vehicle (EV) sales, focusing on market growth, regional adoption, and key factors influencing the electric mobility sector. The analysis covers sales data, market dynamics, and adoption rates to provide comprehensive insights into the current state and future projections of the electric vehicle industry.
 
