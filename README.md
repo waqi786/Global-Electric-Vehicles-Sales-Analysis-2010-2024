@@ -14,7 +14,7 @@ This project investigates the latest trends in global electric vehicle (EV) sale
 3. Insights: Identification of emerging trends, market leaders, and regional variations in EV adoption.
 
 
-**Installation and Usage**
+**Installation and Usage:**
 
 1. Clone the repository:
 
