@@ -5,7 +5,7 @@
 This project investigates the latest trends in global electric vehicle (EV) sales, focusing on market growth, regional adoption, and key factors influencing the electric mobility sector. The analysis covers sales data, market dynamics, and adoption rates to provide comprehensive insights into the current state and future projections of the electric vehicle industry.
 
 
-**Key Features**
+**Key Features:**
 
 1. Data Analysis: In-depth examination of global EV sales data, including regional trends, market growth rates, and sales volumes.
     
