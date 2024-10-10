@@ -1,4 +1,4 @@
-# Global-Electric-Vehicles-Sales-Analysis-2010-2024
+# Global Electric Vehicles Sales Analysis 2010-2024
 
 **Overview:**
 
